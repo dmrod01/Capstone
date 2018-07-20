@@ -6,5 +6,5 @@ Data Analytics Capstone Project
 - Data Analytics Model Building Descriptive Analytics Supervised Learning: Classification - non text
 - Data Analytics Model Building Descriptive Analytics Supervised Learning: Classification - text
 - Data Analytics Model Building Descriptive Analytics Unsupervised Learning: Topic Modeling (Gensim)
-- Data Analytics Model Building Descriptive Analytics
-- Business Questions
+- Data Analytics Model Building Descriptive Analytics Pre Processing
+- Business Questions and Support
